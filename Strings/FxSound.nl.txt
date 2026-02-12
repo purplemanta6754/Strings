@@ -135,3 +135,5 @@ countries: nl be
 "Theme" = "Thema"
 "Dark" = "Donker"
 "Light" = "Licht"
+"Output Device Preference" = "Voorkeur voor uitvoerapparaat"
+"Select preset" = "Voorinstelling selecteren"
